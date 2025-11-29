@@ -17,30 +17,64 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I graduated from National Key Laboratory of Wireless Communications, University of Electronic Science and Technology of China / UESTC (电子科技大学通信抗干扰全国重点实验室) with a master’s degree and from College of Information and Communication Engineering, Harbin Engineering University / HEU (哈尔滨工程大学信息与通信工程学院) with a bachelor’s degree, recommended for admission to a master's degree without an entrance exam.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes Massive MIMO, Wireless Communications, Array Signal Processing, Deep Reinforcement Learning, etc. I have published several papers at the top international journals and conferences.
+
+# with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TWC 2025</div><img src='images/model-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Multi-RIS-assisted mmWave MIMO systems exploiting statistical CSI: Ergodic capacity analysis and joint beamforming design](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10980191)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Hanjie Wu**, Xiantao Cheng
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Project**
+- **Overview:** For multi-RIS-assisted mmWave MIMO systems, using the replica method from statistical physics, closed-form expressions for the ergodic capacity can be derived based on statistical CSI. With the expressions, a corresponding algorithm has been subsequently developed to optimize the hybrid beamforming and RIS phase shift matrices.
+- **Progress:** The derived analytical expressions for ergodic capacity demonstrate high accuracy, and the proposed optimization algorithm exhibits fast convergence. Through beamforming optimization, the ergodic capacity of the multi-RIS-assisted mmWave communication system has been significantly improved.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGCN 2024</div><img src='images/model-2.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Ergodic capacity analysis and resolution optimization for uplink MU-MIMO systems with mixed ADCs](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10753490)
+
+**Hanjie Wu**, Youyang Xiang, Xiantao Cheng
+
+**Project**
+- **Overview:** For uplink MU-MIMO systems with mixed ADCs, the ergodic capacity for both linear and nonlinear quantization models in mixed ADC systems can be derived for resolution optimization design.
+- **Progress:** The derived analytical expressions exhibit high accuracy with significantly lower computational time compared to Monte Carlo simulations. Moreover, through appropriate system configuration, the approach can partially compensate for capacity loss due to low-resolution ADCs while substantially reducing system costs.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACCESS 2023</div><img src='images/model-3.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Ergodic capacity analysis of uplink MU-MIMO systems with low-resolution ADCs](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10327714)
+
+Youyang Xiang, **Hanjie Wu**, Xiantao Cheng
+
+**Project**
+- **Overview:** For nonlinear quantization models under low-resolution uniform ADCs, the replica method from statistical physics is employed to derive closed-form expressions for the ergodic capacity and conduct performance analysis.
+- **Progress:** Compared with Monte Carlo simulations, analytical expressions have higher accuracy and greatly save computation time.
+</div>
+</div>
+
+# [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+# - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# </div>
+# </div>
+
+# - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
