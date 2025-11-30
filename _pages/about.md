@@ -77,12 +77,14 @@ Youyang Xiang, **Hanjie Wu**, Xiantao Cheng
  - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** --> 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.06* Outstanding Master's Thesis Award in 2025 (UESTC)
+- *2022.09 - 2025.06*, Academic Scholarship, Outstanding Graduate Student (UESTC)
+- *2019.05* Outstanding Communist Youth League Member (HEU)
+- *2018.09 - 2022.06* Outstanding Student Scholarship (HEU)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - 2025.06*, Master, University of Electronic Science and Technology of China, National Key Laboratory of Wireless Communications, Communication Engineering (including Broadband Networks, Mobile Communications, etc.). 
+- *2018.09 - 2022.06*, Bachelor, Harbin Engineering University, School of Information and Communication Engineering, Electronic Information Engineering. 
 
 # 💬 Invited Talks
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
