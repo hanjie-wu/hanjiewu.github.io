@@ -83,8 +83,8 @@ Youyang Xiang, **Hanjie Wu**, Xiantao Cheng
 - *2018.09 - 2022.06* Outstanding Student Scholarship (HEU)
 
 # 📖 Educations
-- *2022.09 - 2025.06*, Master, University of Electronic Science and Technology of China, National Key Laboratory of Wireless Communications, Communication Engineering (including Broadband Networks, Mobile Communications, etc.). 
-- *2018.09 - 2022.06*, Bachelor, Harbin Engineering University, School of Information and Communication Engineering, Electronic Information Engineering. 
+- *2022.09 - 2025.06*, Master, University of Electronic Science and Technology of China (UESTC), National Key Laboratory of Wireless Communications, Communication Engineering (including Broadband Networks, Mobile Communications, etc.). 
+- *2018.09 - 2022.06*, Bachelor, Harbin Engineering University (HEU), School of Information and Communication Engineering, Electronic Information Engineering. 
 
 # 💬 Invited Talks
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
