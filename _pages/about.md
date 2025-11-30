@@ -19,7 +19,9 @@ redirect_from:
 
 I graduated from National Key Laboratory of Wireless Communications, University of Electronic Science and Technology of China / **UESTC** (电子科技大学 通信抗干扰全国重点实验室) with a master’s degree and from College of Information and Communication Engineering, Harbin Engineering University / **HEU** (哈尔滨工程大学 信息与通信工程学院) with a bachelor’s degree, recommended for admission to a master's degree without an entrance exam.
 
-My **research interest** includes Massive MIMO, Wireless Communications, Array Signal Processing, Deep Reinforcement Learning, etc. I have published several papers at the top international journals and conferences.
+My **research interest** includes Massive MIMO, Wireless Communications, Array Signal Processing, Deep Reinforcement Learning, etc. I have published several papers at the top international journals and conferences. 
+
+If needed, please contact me via email (hanjie.wu.29@gmail.com / dawn.52180.wu@gmail.com).
 
 <!-- with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). --> 
 
