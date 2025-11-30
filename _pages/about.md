@@ -24,7 +24,7 @@ My **research interest** includes Massive MIMO, Wireless Communications, Array S
 <!-- with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). --> 
 
 
-# 🔥 News
+# 📢 News
 <!--  - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
@@ -76,19 +76,24 @@ Youyang Xiang, **Hanjie Wu**, Xiantao Cheng
 
  - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** --> 
 
-# 🎖 Honors and Awards
+# 🥇 Honors and Awards
 - *2025.06* Outstanding Master's Thesis Award in 2025 (UESTC)
 - *2022.09 - 2025.06*, Academic Scholarship, Outstanding Graduate Student (UESTC)
 - *2019.05* Outstanding Communist Youth League Member (HEU)
 - *2018.09 - 2022.06* Outstanding Student Scholarship (HEU)
 
-# 📖 Educations
+# 🎓 Educations
 - *2022.09 - 2025.06*, Master, University of Electronic Science and Technology of China (UESTC), National Key Laboratory of Wireless Communications, Communication Engineering (including Broadband Networks, Mobile Communications, etc.). 
 - *2018.09 - 2022.06*, Bachelor, Harbin Engineering University (HEU), School of Information and Communication Engineering, Electronic Information Engineering. 
+
+# ⚙️ Skills
+- **Language:** Mandarin Chinese (native), English (IELTS: 6.5).
+- **Technology:** MATLAB, C, Python, Java.
+- **Hobbies:** History, Handicraft, Music, Sports, Travel.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
-<!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+<!--# 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
