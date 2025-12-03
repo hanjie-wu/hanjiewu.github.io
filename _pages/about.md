@@ -32,7 +32,7 @@ If needed, please contact me via email (hanjie.wu.29@gmail.com / dawn.52180.wu@g
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TWC 2025</div><img src='images/model-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TWC 2025</div><img src='images/model-3.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-RIS-assisted mmWave MIMO systems exploiting statistical CSI: Ergodic capacity analysis and joint beamforming design](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10980191)
@@ -58,7 +58,7 @@ If needed, please contact me via email (hanjie.wu.29@gmail.com / dawn.52180.wu@g
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACCESS 2023</div><img src='images/model-3.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACCESS 2023</div><img src='images/model-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Ergodic capacity analysis of uplink MU-MIMO systems with low-resolution ADCs](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10327714)
