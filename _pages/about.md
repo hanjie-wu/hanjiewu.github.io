@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I graduated from [National Key Laboratory of Wireless Communications](https://www.ncl.uestc.edu.cn/index.htm), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) / **UESTC** (电子科技大学 通信抗干扰全国重点实验室) with a **master**’s degree, and from [College of Information and Communication Engineering](http://icec.hrbeu.edu.cn/), [Harbin Engineering University](https://www.hrbeu.edu.cn/) / **HEU** (哈尔滨工程大学 信息与通信工程学院) with a **bachelor**’s degree, recommended for admission to a master's degree without an entrance exam.
+I graduated from [National Key Laboratory of Wireless Communications](https://www.ncl.uestc.edu.cn/index.htm), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) (**UESTC**) [电子科技大学 通信抗干扰全国重点实验室] with a **master**’s degree, and from [College of Information and Communication Engineering](http://icec.hrbeu.edu.cn/), [Harbin Engineering University](https://www.hrbeu.edu.cn/) (**HEU**) [哈尔滨工程大学 信息与通信工程学院] with a **bachelor**’s degree, recommended for admission to a master's degree without an entrance exam.
 
 My **research interest** includes <u><i>Massive MIMO</i></u>, <u><i>Wireless Communications</i></u>, <u><i>Array Signal Processing</i></u>, <u><i>Deep Reinforcement Learning</i></u>, etc. I have published several papers at the top international journals and conferences. 
 
@@ -95,8 +95,8 @@ Youyang Xiang, **Hanjie Wu**, Xiantao Cheng
   🎓 Educations
 </h1>
 
-- *2022.09 - 2025.06*, **Master**, University of Electronic Science and Technology of China (**UESTC**), National Key Laboratory of Wireless Communications, Communication Engineering (including Broadband Networks, Mobile Communications, etc.). 
-- *2018.09 - 2022.06*, **Bachelor**, Harbin Engineering University (**HEU**), School of Information and Communication Engineering, Electronic Information Engineering. 
+- *2022.09 - 2025.06*, **Master**, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) (**UESTC**), [National Key Laboratory of Wireless Communications](https://www.ncl.uestc.edu.cn/index.htm), Communication Engineering (including Broadband Networks, Mobile Communications, etc.).
+- *2018.09 - 2022.06*, **Bachelor**, [Harbin Engineering University](https://www.hrbeu.edu.cn/) (**HEU**), [College of Information and Communication Engineering](http://icec.hrbeu.edu.cn/), Electronic Information Engineering.
 
 <h1 style="color: #2C3E50; border-bottom: 2px solid #2C3E50; padding-bottom: 10px;">
   ⚙️ Skills
