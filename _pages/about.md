@@ -25,7 +25,7 @@ If needed, please contact me via email (hanjie.wu.29@gmail.com / dawn.52180.wu@g
 
 <!-- with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). --> 
 
-<h1 style="color: #3A506B; border-left: 6px solid #5BC0BE; padding-left: 15px; padding-bottom: 8px;">
+<h1 style="color: #007acc; border-bottom: 2px solid #007acc; padding-bottom: 10px;">
   📢 News
 </h1>
 
@@ -34,7 +34,7 @@ If needed, please contact me via email (hanjie.wu.29@gmail.com / dawn.52180.wu@g
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TWC 2025</div><img src='images/model-3.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TWC 2025 (IF 10.7)</div><img src='images/model-3.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-RIS-assisted mmWave MIMO systems exploiting statistical CSI: Ergodic capacity analysis and joint beamforming design](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10980191)
@@ -47,7 +47,7 @@ If needed, please contact me via email (hanjie.wu.29@gmail.com / dawn.52180.wu@g
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGCN 2024</div><img src='images/model-2.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGCN 2024 (IF 6.7)</div><img src='images/model-2.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Ergodic capacity analysis and resolution optimization for uplink MU-MIMO systems with mixed ADCs](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10753490)
@@ -60,7 +60,7 @@ If needed, please contact me via email (hanjie.wu.29@gmail.com / dawn.52180.wu@g
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACCESS 2023</div><img src='images/model-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACCESS 2023 (IF 3.6)</div><img src='images/model-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Ergodic capacity analysis of uplink MU-MIMO systems with low-resolution ADCs](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10327714)
@@ -82,16 +82,16 @@ Youyang Xiang, **Hanjie Wu**, Xiantao Cheng
 
 # 🥇 Honors and Awards
 - *2025.06* Outstanding Master's Thesis Award in 2025 (UESTC)
-- *2022.09 - 2025.06*, Academic Scholarship, Outstanding Graduate Student (UESTC)
+- *2022.09 - 2025.06* Academic Scholarship, Outstanding Graduate Student (UESTC)
 - *2019.05* Outstanding Communist Youth League Member (HEU)
 - *2018.09 - 2022.06* Outstanding Student Scholarship (HEU)
 
 # 🎓 Educations
-- *2022.09 - 2025.06*, Master, University of Electronic Science and Technology of China (UESTC), National Key Laboratory of Wireless Communications, Communication Engineering (including Broadband Networks, Mobile Communications, etc.). 
-- *2018.09 - 2022.06*, Bachelor, Harbin Engineering University (HEU), School of Information and Communication Engineering, Electronic Information Engineering. 
+- *2022.09 - 2025.06*, **Master**, University of Electronic Science and Technology of China (**UESTC**), National Key Laboratory of Wireless Communications, Communication Engineering (including Broadband Networks, Mobile Communications, etc.). 
+- *2018.09 - 2022.06*, **Bachelor**, Harbin Engineering University (**HEU**), School of Information and Communication Engineering, Electronic Information Engineering. 
 
 # ⚙️ Skills
-- **Language:** Mandarin Chinese (native), English (IELTS: 6.5).
+- **Language:** Mandarin Chinese (native), English (fluent).
 - **Technology:** MATLAB, C, Python, Java.
 - **Hobbies:** History, Handicraft, Music, Sports, Travel.
 
