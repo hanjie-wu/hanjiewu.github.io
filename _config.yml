@@ -8,7 +8,6 @@
 # Site Settings
 title                    : "Hanjie Wu (武寒洁)"
 description              : '<div style="font-family:STKaiti,KaiTi,楷体,serif; font-size:1.1em; color:#2c3e50; text-align:center; padding:1em; background:#f8f9fa; border-radius:8px;">「竹影扫阶尘不动，月轮穿沼水无痕。」</div>'
-# "「竹影扫阶尘不动，月轮穿沼水无痕。」"
 repository               : "hanjie-wu/hanjiewu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -26,6 +25,8 @@ author:
   avatar           : "images/android-chrome-512x512.png"
   bio              : "University of Electronic Science and Technology of China"
   location         : "Jinan, China"
+  cv_pdf           : "/assets/CV_Hanjie_Wu.pdf"
+  cv_title         : "Download CV"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=H0Hwd5UAAAAJ&hl=en&oi=ao"
