@@ -98,7 +98,7 @@ Youyang Xiang, **Hanjie Wu**, Xiantao Cheng
 - *2022.09 - 2025.06*, **Master**, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) (**UESTC**), [National Key Laboratory of Wireless Communications](https://www.ncl.uestc.edu.cn/index.htm), Communication Engineering (including Broadband Networks, Mobile Communications, etc.).
 - *2018.09 - 2022.06*, **Bachelor**, [Harbin Engineering University](https://www.hrbeu.edu.cn/) (**HEU**), [College of Information and Communication Engineering](http://icec.hrbeu.edu.cn/), Electronic Information Engineering.
 
-<h1 id="-skills" style="color: #2C3E50; border-bottom: 2px solid #2C3E50; padding-bottom: 10px;">
+<h1 id="-skills" style="color: #2C3E50; border-bottom: 2px solid #F39C12; padding-bottom: 10px; margin: 2rem 0 1.5rem;">
   ⚙️ Skills
 </h1>
 
