@@ -25,7 +25,7 @@ If needed, please contact me via email (hanjie.wu.29@gmail.com / dawn.52180.wu@g
 
 <!-- with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). --> 
 
-<h1 style="color: #2C3E50; border-bottom: 3px solid #3498DB; padding-bottom: 12px; margin-bottom: 30px;">
+<h1 style="color: #3A506B; border-left: 6px solid #5BC0BE; padding-left: 15px; padding-bottom: 8px;">
   📢 News
 </h1>
 
