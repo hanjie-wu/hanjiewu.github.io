@@ -29,7 +29,7 @@ If needed, please contact me via email (hanjie.wu.29@gmail.com / dawn.52180.wu@g
   📢 News
 </h1>
 
-<!-- # 📢 News - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 <h1 style="color: #2C3E50; border-bottom: 2px solid #2C3E50; padding-bottom: 10px;">
