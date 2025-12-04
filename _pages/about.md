@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I graduated from National Key Laboratory of Wireless Communications, University of Electronic Science and Technology of China / **UESTC** (电子科技大学 通信抗干扰全国重点实验室) with a master’s degree and from College of Information and Communication Engineering, Harbin Engineering University / **HEU** (哈尔滨工程大学 信息与通信工程学院) with a bachelor’s degree, recommended for admission to a master's degree without an entrance exam.
+I graduated from National Key Laboratory of Wireless Communications, University of Electronic Science and Technology of China / **UESTC** (电子科技大学 通信抗干扰全国重点实验室) with a **master**’s degree, and from College of Information and Communication Engineering, Harbin Engineering University / **HEU** (哈尔滨工程大学 信息与通信工程学院) with a **bachelor**’s degree, recommended for admission to a master's degree without an entrance exam.
 
-My **research interest** includes Massive MIMO, Wireless Communications, Array Signal Processing, Deep Reinforcement Learning, etc. I have published several papers at the top international journals and conferences. 
+My **research interest** includes <u><i>Massive MIMO</i></u>, <u><i>Wireless Communications</i></u>, <u><i>Array Signal Processing</i></u>, <u><i>Deep Reinforcement Learning</i></u>, etc. I have published several papers at the top international journals and conferences. 
 
 If needed, please contact me via email (hanjie.wu.29@gmail.com / dawn.52180.wu@gmail.com).
 
