@@ -25,14 +25,16 @@ If needed, please contact me via email (hanjie.wu.29@gmail.com / dawn.52180.wu@g
 
 <!-- with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). --> 
 
-<h1 style="color: #007acc; border-bottom: 2px solid #007acc; padding-bottom: 10px;">
+<h1 style="color: #2C3E50; border-bottom: 2px solid #666666; padding-bottom: 10px;">
   📢 News
 </h1>
 
 <!-- # 📢 News - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
-# 📝 Publications 
+<h1 style="color: #9B59B6; border-bottom: 2px solid #498DB; padding-bottom: 10px;">
+  📝 Publications
+</h1>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TWC 2025 (IF 10.7)</div><img src='images/model-3.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -80,17 +82,26 @@ Youyang Xiang, **Hanjie Wu**, Xiantao Cheng
 
  - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** --> 
 
-# 🥇 Honors and Awards
+<h1 style="color: #2C3E50; border-bottom: 2px solid #2C3E50; padding-bottom: 10px;">
+  🥇 Honors and Awards
+</h1>
+
 - *2025.06* Outstanding Master's Thesis Award in 2025 (UESTC)
 - *2022.09 - 2025.06* Academic Scholarship, Outstanding Graduate Student (UESTC)
 - *2019.05* Outstanding Communist Youth League Member (HEU)
 - *2018.09 - 2022.06* Outstanding Student Scholarship (HEU)
 
-# 🎓 Educations
+<h1 style="color: #2C3E50; border-bottom: 2px solid #2C3E50; padding-bottom: 10px;">
+  🎓 Educations
+</h1>
+
 - *2022.09 - 2025.06*, **Master**, University of Electronic Science and Technology of China (**UESTC**), National Key Laboratory of Wireless Communications, Communication Engineering (including Broadband Networks, Mobile Communications, etc.). 
 - *2018.09 - 2022.06*, **Bachelor**, Harbin Engineering University (**HEU**), School of Information and Communication Engineering, Electronic Information Engineering. 
 
-# ⚙️ Skills
+<h1 style="color: #2C3E50; border-bottom: 2px solid #2C3E50; padding-bottom: 10px;">
+  ⚙️ Skills
+</h1>
+
 - **Language:** Mandarin Chinese (native), English (fluent).
 - **Technology:** MATLAB, C, Python, Java.
 - **Hobbies:** History, Handicraft, Music, Sports, Travel.
