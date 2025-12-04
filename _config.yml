@@ -25,7 +25,7 @@ author:
   avatar           : "images/android-chrome-512x512.png"
   bio              : "University of Electronic Science and Technology of China"
   location         : "Jinan, China"
-  cv_pdf           : "/CV_Hanjie_Wu.pdf"
+  cv_pdf           : "https://github.com/hanjie-wu/hanjiewu.github.io/blob/main/CV_Hanjie_Wu.pdf"
   cv_title         : "Download CV"
   employer         :
   pubmed           : 
