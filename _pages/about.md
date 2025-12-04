@@ -91,7 +91,7 @@ Youyang Xiang, **Hanjie Wu**, Xiantao Cheng
 - *2019.05* Outstanding Communist Youth League Member (HEU)
 - *2018.09 - 2022.06* Outstanding Student Scholarship (HEU)
 
-<h1 style="color: #2C3E50; border-bottom: 2px solid #2C3E50; padding-bottom: 10px;">
+<h1 id="-educations" style="color: #2C3E50; border-bottom: 2px solid #2C3E50; padding-bottom: 10px;">
   🎓 Educations
 </h1>
 
