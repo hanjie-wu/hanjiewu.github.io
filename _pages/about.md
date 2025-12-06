@@ -21,7 +21,7 @@ I graduated from [National Key Laboratory of Wireless Communications](https://ww
 
 My **research interest** includes <u><i>Massive MIMO</i></u>, <u><i>Wireless Communications</i></u>, <u><i>Array Signal Processing</i></u>, <u><i>Deep Reinforcement Learning</i></u>, etc. I have published several papers at the top international journals and conferences. 
 
-If needed, please contact me via email (hanjie.wu.29@gmail.com / dawn.52180.wu@gmail.com). [<a href="CV_Hanjie_Wu.pdf">Curriculem Vitae</a>]
+[<a href="CV_Hanjie_Wu.pdf">Curriculem Vitae</a>] [Email: hanjie.wu.29@gmail.com / dawn.52180.wu@gmail.com]
 
 <!-- with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). --> 
 
