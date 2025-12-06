@@ -30,8 +30,8 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=H0Hwd5UAAAAJ&hl=en&oi=ao"
-  email            : "hanjie.wu.29@gmail.com / dawn.52180.wu@gmail.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  email            : # "hanjie.wu.29@gmail.com / dawn.52180.wu@gmail.com"
+  researchgate     : # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
