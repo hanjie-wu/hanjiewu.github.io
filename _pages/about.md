@@ -86,7 +86,7 @@ Youyang Xiang, **Hanjie Wu**, Xiantao Cheng
   🥇 Honors and Awards
 </h1>
 
-- *2025.06* **Outstanding Master's Thesis Award** in 2025 (UESTC)
+- *2025.06* **Outstanding Master's Thesis Award in 2025** (UESTC)
 - *2022.09 - 2025.06* Academic Scholarship, Outstanding Graduate Student (UESTC)
 - *2019.05* **Outstanding Communist Youth League Member** (HEU)
 - *2018.09 - 2022.06* Outstanding Student Scholarship (HEU)
