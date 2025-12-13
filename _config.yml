@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hanjie Wu (武寒洁)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "University of Electronic Science and Technology of China"
-  location         : "Jinan, China"
+  bio              : "The Chinese University of Hong Kong, Shenzhen"
+  location         : "Shenzhen, China"
   cv_pdf           : # "https://github.com/hanjie-wu/hanjiewu.github.io/blob/main/CV_Hanjie_Wu.pdf"
   cv_title         : # "Download CV"
   employer         :
