@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a **Ph.D.** student in [School of Science and Engineering](https://sse.cuhk.edu.cn/), [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/zh-hans) (**CUHKSZ**) [香港中文大学(深圳) 理工学院]. I graduated from [National Key Laboratory of Wireless Communications](https://www.ncl.uestc.edu.cn/index.htm), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) (**UESTC**) [电子科技大学 通信抗干扰全国重点实验室] with a **master**’s degree, and from [College of Information and Communication Engineering](http://icec.hrbeu.edu.cn/), [Harbin Engineering University](https://www.hrbeu.edu.cn/) (**HEU**) [哈尔滨工程大学 信息与通信工程学院] with a **bachelor**’s degree, recommended for admission to a master's degree without an entrance exam.
+I'm currently a **Ph.D.** student in [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/zh-hans) (**CUHKSZ**) [香港中文大学(深圳)]. I graduated from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) (**UESTC**) [电子科技大学] with a **master**’s degree, and from [Harbin Engineering University](https://www.hrbeu.edu.cn/) (**HEU**) [哈尔滨工程大学] with a **bachelor**’s degree, recommended for admission to a master's degree without an entrance exam.
 
 My **research interest** includes <u><i>Massive MIMO</i></u>, <u><i>Wireless Communications</i></u>, <u><i>Array Signal Processing</i></u>, <u><i>Deep Reinforcement Learning</i></u>, etc. I have published several papers at the top international journals and conferences. 
 
@@ -86,18 +86,18 @@ Youyang Xiang, **Hanjie Wu**, Xiantao Cheng
   🥇 Honors and Awards
 </h1>
 
-- *2025.06* Outstanding Master's Thesis Award in 2025 (UESTC)
+- *2025.06* **Outstanding Master's Thesis Award** in 2025 (UESTC)
 - *2022.09 - 2025.06* Academic Scholarship, Outstanding Graduate Student (UESTC)
-- *2019.05* Outstanding Communist Youth League Member (HEU)
+- *2019.05* **Outstanding Communist Youth League Member** (HEU)
 - *2018.09 - 2022.06* Outstanding Student Scholarship (HEU)
 
 <h1 id="-educations" style="color: #2C3E50; border-bottom: 2px solid #2C3E50; padding-bottom: 10px;">
   🎓 Educations
 </h1>
 
-- *2026.01 - now*, **Ph.D.**, [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/zh-hans) (**CUHKSZ**), [School of Science and Engineering](https://sse.cuhk.edu.cn/), Laboratory of Sensing and Communication for Smart City, Computer and Information Engineering {Collaborative Degree Program with [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html) (**CUHK**), [Department of Information Engineering](https://www.ie.cuhk.edu.hk/)}.
-- *2022.09 - 2025.06*, **Master**, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) (**UESTC**), [National Key Laboratory of Wireless Communications](https://www.ncl.uestc.edu.cn/index.htm), Broadband Wireless Communication System and Intelligent Anti-interference Research Team, Communication Engineering (including Broadband Networks, Mobile Communications, etc.).
-- *2018.09 - 2022.06*, **Bachelor**, [Harbin Engineering University](https://www.hrbeu.edu.cn/) (**HEU**), [College of Information and Communication Engineering](http://icec.hrbeu.edu.cn/), Radar and Electronic Warfare Team, Electronic Information Engineering.
+- *2026.01 - now*, **Ph.D.**, Computer and Information Engineering, Laboratory of Sensing and Communication for Smart City, [School of Science and Engineering](https://sse.cuhk.edu.cn/), [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/zh-hans) (**CUHKSZ**) {Collaborative Degree Program with [Department of Information Engineering](https://www.ie.cuhk.edu.hk/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html) (**CUHK**).}
+- *2022.09 - 2025.06*, **Master**, Communication Engineering (including Broadband Networks, Mobile Communications, etc.), Broadband Wireless Communication System and Intelligent Anti-interference Research Team, [National Key Laboratory of Wireless Communications](https://www.ncl.uestc.edu.cn/index.htm), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) (**UESTC**).
+- *2018.09 - 2022.06*, **Bachelor**, Electronic Information Engineering, Radar and Electronic Warfare Team, [College of Information and Communication Engineering](http://icec.hrbeu.edu.cn/), [Harbin Engineering University](https://www.hrbeu.edu.cn/) (**HEU**).
 
 <h1 id="-skills" style="color: #2C3E50; border-bottom: 2px solid #2C3E50; padding-bottom: 10px;">
   ⚙️ Skills
