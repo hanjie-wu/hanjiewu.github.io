@@ -95,7 +95,7 @@ Youyang Xiang, **Hanjie Wu**, Xiantao Cheng
   🎓 Educations
 </h1>
 
-- *2026.01 - now*, **Ph.D.**, Computer and Information Engineering, Laboratory of Sensing and Communication for Smart City, [School of Science and Engineering](https://sse.cuhk.edu.cn/), [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/zh-hans) (**CUHKSZ**) {Collaborative Degree Program with [Department of Information Engineering](https://www.ie.cuhk.edu.hk/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html) (**CUHK**).}
+- *2026.01 - now*, **Ph.D.**, Computer and Information Engineering, Laboratory of Sensing and Communication for Smart City, [School of Science and Engineering](https://sse.cuhk.edu.cn/), [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/zh-hans) (**CUHKSZ**) {Collaborative Program with [Department of Information Engineering](https://www.ie.cuhk.edu.hk/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html) (**CUHK**).}
 - *2022.09 - 2025.06*, **Master**, Communication Engineering (including Broadband Networks, Mobile Communications, etc.), Broadband Wireless Communication System and Intelligent Anti-interference Research Team, [National Key Laboratory of Wireless Communications](https://www.ncl.uestc.edu.cn/index.htm), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) (**UESTC**).
 - *2018.09 - 2022.06*, **Bachelor**, Electronic Information Engineering, Radar and Electronic Warfare Team, [College of Information and Communication Engineering](http://icec.hrbeu.edu.cn/), [Harbin Engineering University](https://www.hrbeu.edu.cn/) (**HEU**).
 
